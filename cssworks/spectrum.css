@@ -1,0 +1,28 @@
+h1{
+    margin-left:350px;
+    font-family: 'Tangerine', cursive;
+}
+table{
+    margin: auto;
+}
+td{
+    height:500px;
+    padding:100px;
+    border:5px solid white;
+
+}
+#one{
+    background-color: #247BA0;
+}
+#two{
+    background-color: #70C183;
+}
+#three{
+    background-color: #B2DBBF;
+}
+#four{
+    background-color: #F3FFBD;
+}
+#five{
+    background-color: #FF1654;
+}
